@@ -14,5 +14,8 @@ Show product details such as name, description, and price.
 ## Screenshoot
 ![Screenshot (5)](https://github.com/n-uwayo/Flutter-app/assets/122350054/b1b1ee64-fbb0-4cdc-958f-b6aa0ebe68f7)
 
+
+![Screenshot (6)](https://github.com/n-uwayo/Flutter-app/assets/122350054/af8c7857-cd29-413a-abdc-0a86fb6a2f6b)
+
 ## Authors
 Noella UWAYO
